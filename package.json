@@ -1,0 +1,25 @@
+{
+  "name": "democracy.bytris.uk",
+  "version": "0.2.1",
+  "description": "On the 22nd May 2024, PM, Rishi Sunak, announced a General Election would be held on the 4th July this year. This site will evaluate claims made during campaigning, provide insight into how GEs and our 'democracy' works, and provide commentary on events up to and after the result.",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevByTris/democracy.bytris.uk.git"
+  },
+  "keywords": [
+    "GE24",
+    "GenocideElection",
+    "General",
+    "Election"
+  ],
+  "author": "@ByTrisUK",
+  "license": "The Unlicense",
+  "bugs": {
+    "url": "https://github.com/DevByTris/democracy.bytris.uk/issues"
+  },
+  "homepage": "https://github.com/DevByTris/democracy.bytris.uk#readme"
+}
